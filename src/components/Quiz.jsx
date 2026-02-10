@@ -10,8 +10,8 @@ const perguntas = [
     opcoes: ["Nenhuma vez", "1 vez apenas", "De 2 a 3 vezes", "Mais de 04 vezes"]
   },
   {
-    pergunta: "Você possui um relacionamento hoje?",
-    opcoes: ["Sim", "Não"]
+    pergunta: "Quando você sai com alguém, essa pessoa costuma te procurar depois ou some?",
+    opcoes: ["Ela me procura", "Some"]
   }
 ];
 
