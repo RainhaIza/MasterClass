@@ -121,7 +121,7 @@ export default function TopicosAula() {
         {/* BOTÃO ORIGINAL RESTAURADO */}
         <div className="space-y-6">
           <a 
-            href="https://pay.kiwify.com.br/0FiueXp" 
+            href="https://pay.cakto.com.br/zdo8hvn_760750" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center justify-center w-full bg-[#f80032] hover:bg-rose-500 text-white text-lg md:text-2xl font-black py-7 md:py-8 px-4 md:px-6 rounded-3xl shadow-[0_20px_50px_rgba(248,0,50,0.4)] transform transition active:scale-95 text-center uppercase leading-tight md:leading-normal min-h-[80px]"
